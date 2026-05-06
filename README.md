@@ -1,2 +1,2 @@
-
-This repository will contain files for the Uber Prediction Model.
+# Uber Prediction Model
+A project focused on predicting Uber trends and demand using data analysis and machine learning.
